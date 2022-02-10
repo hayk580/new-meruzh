@@ -1,1 +1,2 @@
-# new-meruzh
+# Mario
+a Mario game in html canvas
